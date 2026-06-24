@@ -1,0 +1,34 @@
+{
+  "project": {
+    "title": "Sistema Meteorol\u00f3gico",
+    "subtitle": "con Dashboard",
+    "course": "BTI - Tecnico en Informatica",
+    "institution": "CELE"
+  },
+  "logo": "img/colelogo.jpg",
+  "team": [
+    {
+      "name": "Profesor",
+      "role": "Desarrollador Principal",
+      "course": "3er A\u00f1o BTI",
+      "bio": "Encargado del desarrollo del sistema embebido y la plataforma de monitoreo.",
+      "skills": [
+        "Arduino",
+        "Python",
+        "HTML/CSS",
+        "JavaScript"
+      ],
+      "avatar": ""
+    },
+    {
+      "name": "Samara",
+      "role": "Dise\u00f1adora",
+      "course": "2do. A\u00f1o",
+      "bio": "asd",
+      "skills": [
+        "asd"
+      ],
+      "avatar": "img/avatars/member_1.png"
+    }
+  ]
+}
