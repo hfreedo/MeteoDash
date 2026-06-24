@@ -1,0 +1,30 @@
+METEODASH - GUIA RAPIDA
+
+Primera vez:
+1. Abre 1 - Instalar MeteoDash con doble clic.
+2. Espera a que termine.
+3. Si Windows pregunta permisos, acepta.
+
+Para usar MeteoDash:
+1. Abre 2 - Abrir MeteoDash con doble clic.
+2. Pulsa INICIAR SERVIDOR.
+3. Pulsa ABRIR DASHBOARD.
+4. Para Arduino, selecciona el puerto COM desde el dashboard y pulsa Conectar.
+
+Inicio de sesion:
+- Admin: admin / admin123
+- Visitante: visitante / visitante123
+- Si no reconoce la clave, cierra MeteoDash y abre 4 - Reparar Credenciales.
+
+Si el Arduino no aparece como COM:
+1. Abre 3 - Arduino IDE Legacy Drivers.
+2. Instala Arduino IDE Legacy y acepta los drivers USB.
+3. Desconecta y conecta nuevamente el Arduino.
+4. Vuelve a abrir MeteoDash y pulsa Buscar puertos.
+
+Notas:
+- La primera instalacion necesita internet.
+- Si la computadora no tiene Python, el instalador usara el Python incluido en la carpeta instaladores.
+- Si Windows pregunta por permisos de red o firewall, pulsa Permitir.
+- Ngrok y Cloudflare Tunnel son opcionales y pueden requerir instalacion aparte.
+- No necesitas abrir Arduino IDE para la demo si el Arduino ya esta programado.
