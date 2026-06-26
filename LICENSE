@@ -1,21 +1,62 @@
-MIT License
+Licencia de Uso Educativo y Demostrativo No Comercial
 
 Copyright (c) 2026 MeteoDash contributors
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+El presente proyecto, incluyendo su codigo fuente, firmware, documentacion,
+interfaz grafica, recursos de apoyo y materiales asociados, se distribuye con
+fines educativos, demostrativos y de aprendizaje.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Usos permitidos
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Se permite usar, copiar, estudiar, modificar y compartir este proyecto cuando
+el uso tenga fines educativos, escolares, academicos, demostrativos, de feria
+cientifica o de aprendizaje personal, siempre que:
+
+- No exista finalidad comercial directa o indirecta.
+- Se mantenga el aviso de autoria original.
+- Se conserve una copia de esta licencia junto con el proyecto o sus derivados.
+- No se presente el proyecto como una solucion certificada, industrial,
+  aeronautica, meteorologica profesional o apta para decisiones operativas
+  reales.
+
+2. Usos no permitidos sin autorizacion escrita
+
+Queda prohibido, salvo autorizacion previa y por escrito del titular del
+proyecto:
+
+- Vender, alquilar, sublicenciar o comercializar el proyecto, total o
+  parcialmente.
+- Usar el proyecto como parte de cursos, talleres, capacitaciones, clases,
+  plataformas, servicios o materiales por los que se cobre dinero.
+- Integrar el proyecto en productos, servicios, consultorias, contenidos
+  comerciales o demostraciones promocionales de una empresa.
+- Usar el nombre, imagen, documentacion o interfaz del proyecto para obtener
+  beneficio economico sin permiso.
+- Remover o alterar los avisos de autoria, licencia o atribucion.
+
+3. Autorizacion para usos comerciales
+
+Cualquier uso comercial, empresarial, institucional con cobro, publicitario o
+con fines de lucro requiere autorizacion escrita del titular del proyecto. La
+autorizacion puede incluir condiciones adicionales, limites de uso, obligaciones
+de atribucion o acuerdos economicos separados.
+
+4. Obras derivadas
+
+Las modificaciones, adaptaciones o versiones derivadas solo pueden compartirse
+bajo condiciones compatibles con esta licencia, manteniendo la restriccion de
+uso no comercial y el reconocimiento de autoria correspondiente.
+
+5. Sin garantia
+
+El proyecto se entrega "tal cual", sin garantia de ningun tipo, expresa o
+implicita. Los autores o titulares no seran responsables por danos, perdidas,
+fallas, interrupciones, usos indebidos, decisiones tomadas a partir del sistema
+o cualquier consecuencia derivada del uso del proyecto.
+
+6. Alcance educativo del prototipo
+
+MeteoDash es un prototipo escolar de monitoreo ambiental. Su uso debe
+entenderse como apoyo didactico y demostrativo. No reemplaza instrumentos
+profesionales, servicios meteorologicos oficiales, sistemas certificados ni
+procedimientos tecnicos especializados.

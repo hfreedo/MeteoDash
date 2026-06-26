@@ -341,6 +341,8 @@ El proyecto incluye documentos de apoyo en la carpeta `docs/`, incluyendo una ve
 
 ## Licencia
 
-Este proyecto se distribuye bajo licencia MIT.
+Este proyecto se distribuye bajo una licencia personalizada de uso educativo y demostrativo no comercial.
 
-Puede utilizarse, modificarse y compartirse libremente con fines educativos, manteniendo el aviso de autoría y la licencia original. Ver [LICENSE](LICENSE).
+Se permite usar, estudiar, modificar y compartir el proyecto con fines escolares, académicos, demostrativos o de feria científica, manteniendo el aviso de autoría y la licencia original.
+
+No se permite vender el proyecto, usarlo en cursos pagos, integrarlo en servicios comerciales ni percibir dinero por su uso sin autorización escrita del titular del proyecto. Ver [LICENSE](LICENSE).
