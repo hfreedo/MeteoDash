@@ -1,5 +1,10 @@
 # MeteoDash - Estación Meteorológica con Arduino
 
+![Uso educativo](https://img.shields.io/badge/uso-educativo%20y%20demostrativo-0a9396)
+![Uso comercial](https://img.shields.io/badge/uso%20comercial-requiere%20autorizaci%C3%B3n-b00020)
+![Plataforma](https://img.shields.io/badge/plataforma-Windows-2563eb)
+![Arduino](https://img.shields.io/badge/hardware-Arduino-00979d)
+
 MeteoDash es un proyecto escolar de estación meteorológica basado en Arduino y apoyado por un dashboard web. El prototipo mide variables ambientales locales, envía los datos a una computadora y los muestra en una interfaz visual con medidores, gráficas, historial, controles y referencia meteorológica externa mediante Windy.
 
 El objetivo principal del proyecto es demostrar el funcionamiento de un sistema de monitoreo ambiental construido con sensores accesibles. El dashboard, los instaladores y los accesos directos funcionan como material de apoyo para que la demostración sea más clara, ordenada y fácil de ejecutar en otras computadoras.
