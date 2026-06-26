@@ -341,4 +341,6 @@ El proyecto incluye documentos de apoyo en la carpeta `docs/`, incluyendo una ve
 
 ## Licencia
 
-Definir la licencia antes de publicar el repositorio. Para proyectos escolares abiertos, una opción común es MIT, siempre que se mantenga el aviso de autoría correspondiente.
+Este proyecto se distribuye bajo licencia MIT.
+
+Puede utilizarse, modificarse y compartirse libremente con fines educativos, manteniendo el aviso de autoría y la licencia original. Ver [LICENSE](LICENSE).
